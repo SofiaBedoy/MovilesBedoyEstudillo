@@ -1,0 +1,4 @@
+#Tue Sep 10 17:38:12 PDT 2019
+base.0=E\:\\P1HolaMundo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
